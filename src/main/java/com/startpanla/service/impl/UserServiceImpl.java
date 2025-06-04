@@ -1,4 +1,4 @@
-package com.startpanla.service;
+package com.startpanla.service.impl;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -9,6 +9,7 @@ import com.startpanla.dto.UserRequest;
 import com.startpanla.dto.UserResponse;
 import com.startpanla.model.User;
 import com.startpanla.repository.UserRepository;
+import com.startpanla.service.UserService;
 
 //import lombok.RequiredArgsConstructor;
 
