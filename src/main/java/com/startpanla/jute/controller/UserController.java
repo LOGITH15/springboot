@@ -29,7 +29,7 @@ public class UserController {
 
     }
 @PostMapping
-public ResponseEntity<UserResponse> createUSer(@RequestBody UserRequest userRequest) {
+public ResponseEntity<UserResponse> createUser(@RequestBody UserRequest userRequest) {
     return ResponseEntity.ok(userService.createUser(userRequest));
 }
 @GetMapping

@@ -14,7 +14,7 @@ import com.startpanla.jute.service.UserService;
 //import lombok.RequiredArgsConstructor;
 
 @Service
-//@RequiredArgsConstructor
+// @RequiredArgsConstructor
 public class UserServiceImpl implements UserService{
     private final UserRepository userRepository;
     public UserServiceImpl(UserRepository userRepository){
