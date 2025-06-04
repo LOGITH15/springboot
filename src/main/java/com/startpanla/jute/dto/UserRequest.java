@@ -1,4 +1,4 @@
-package com.startpanla.dto;
+package com.startpanla.jute.dto;
 import lombok.*;
 @Data
 @NoArgsConstructor

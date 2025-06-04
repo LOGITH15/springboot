@@ -1,11 +1,11 @@
-package com.startpanla.controller;
+package com.startpanla.jute.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.startpanla.dto.UserRequest;
-import com.startpanla.dto.UserResponse;
-import com.startpanla.service.UserService;
+import com.startpanla.jute.dto.UserRequest;
+import com.startpanla.jute.dto.UserResponse;
+import com.startpanla.jute.service.UserService;
 
 import java.util.List;
 

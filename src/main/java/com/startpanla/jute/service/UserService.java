@@ -1,9 +1,9 @@
-package com.startpanla.service;
+package com.startpanla.jute.service;
 
 import java.util.List;
 
-import com.startpanla.dto.UserRequest;
-import com.startpanla.dto.UserResponse;
+import com.startpanla.jute.dto.UserRequest;
+import com.startpanla.jute.dto.UserResponse;
 
 public interface UserService {
 

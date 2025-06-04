@@ -1,15 +1,15 @@
-package com.startpanla.service.impl;
+package com.startpanla.jute.service.impl;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
 
-import com.startpanla.dto.UserRequest;
-import com.startpanla.dto.UserResponse;
-import com.startpanla.model.User;
-import com.startpanla.repository.UserRepository;
-import com.startpanla.service.UserService;
+import com.startpanla.jute.dto.UserRequest;
+import com.startpanla.jute.dto.UserResponse;
+import com.startpanla.jute.model.User;
+import com.startpanla.jute.repository.UserRepository;
+import com.startpanla.jute.service.UserService;
 
 //import lombok.RequiredArgsConstructor;
 
